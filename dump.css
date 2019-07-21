@@ -1,0 +1,9 @@
+.xdebug-var-dump{
+    position: absolute;
+    z-index: 99999;
+    left: 30%;
+    top: 20%;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid black;
+}
